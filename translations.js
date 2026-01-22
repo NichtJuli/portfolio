@@ -29,9 +29,9 @@ const translations = {
     // Skills & Experience
     skillsTitle: "Fähigkeiten",
     experienceTitle: "Erfahrung",
-    exp1: "<strong>2025</strong> IT-Support @Battery Damage Service",
-    exp2: "<strong>2024</strong> Praktikum @Silberstern Film-Produktion",
-    exp3: "<strong>2019</strong> FSJ: Kinderbetreuung @Kinderhaus Regenbogen",
+    exp1: "<strong>2025</strong> IT-Support<br>@Battery Damage Service",
+    exp2: "<strong>2024</strong> Praktikum<br>@Silberstern Film-Produktion",
+    exp3: "<strong>2019</strong> FSJ: Kinderbetreuung<br>@Kinderhaus Regenbogen",
 
     // Essentials Section
     sectionEssentials: "Meine Essentials",
@@ -102,9 +102,9 @@ const translations = {
     // Skills & Experience
     skillsTitle: "Skills",
     experienceTitle: "Experience",
-    exp1: "<strong>2025</strong> IT Support @Battery Damage Service",
-    exp2: "<strong>2024</strong> Internship @Silberstern Film Production",
-    exp3: "<strong>2019</strong> Volunteer Service: Child care @Kinderhaus Regenbogen",
+    exp1: "<strong>2025</strong> IT Support<br>@Battery Damage Service",
+    exp2: "<strong>2024</strong> Internship<br>@Silberstern Film Production",
+    exp3: "<strong>2019</strong> Volunteer Service: Child care<br>@Kinderhaus Regenbogen",
 
     // Essentials Section
     sectionEssentials: "My Essentials",
